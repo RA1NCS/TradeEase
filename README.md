@@ -10,10 +10,19 @@
 -    **Customizable settings**: TradeEase allows you to customize your trading strategy, so you can tailor it to your specific needs and preferences.
      24/7 monitoring: With 24/7 monitoring, TradeEase keeps an eye on your trades around the clock, so you can rest easy knowing your investments are in good hands.
 
-## Getting Started
+## Usage
 
-To get started with TradeEase, simply download head to [TradeEase.io](https://tradeease.io) and follow the installation instructions. Once installed, you can customize your settings and start trading right away. TradeEase is compatible with a wide range of trading platforms, so you can use it with your favorite broker.
+[DEPRECATED]
 
-## Contact Us
+- Visit TradeEase.io.
+- Join the Discord server provided on the site.
+- Once in the server, navigate to the `#getting-started` channel.
+- Follow the instructions provided there to proceed.
 
-If you have any questions or feedback about TradeEase, please feel free to contact us at support@tradeease.com. We're always happy to hear from our users and are committed to providing the best possible trading experience.
+[CURRENT]
+
+- Download the file `TradeEase.pine`.
+- Open your TradingView app.
+- Go to the 'Pine Editor' section within the app.
+- Paste the downloaded script into the Pine Editor.
+- Save the script and add to chart.
