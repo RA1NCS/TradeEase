@@ -1,3 +1,8 @@
+html {
+	appearance: none;
+	-webkit-appearance: none;
+}
+
 /* Fonts */
 @font-face {
 	font-family: 'Elnath';
